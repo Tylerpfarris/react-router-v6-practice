@@ -6,8 +6,11 @@
     "react-router-dom": "6.4.3"
   },
   "devDependencies": {
-    "vite": "latest",
-    "@vitejs/plugin-react": "*"
+    "@vitejs/plugin-react": "*",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "latest"
   },
   "scripts": {
     "start": "vite",
